@@ -450,18 +450,9 @@ a.button2:hover {
 @media only screen 
   and (min-device-width: 320px) 
   and (max-device-width: 736px) {
-      
-      #landing {
-    background-image: url(../img/Yoga-Plank-Poses.jpg);
-    height: 70%;
-    width: 100%;
-    background-repeat: no-repeat;
-    background-position: top;
-    background-size: cover;
-}
     
      h1 {
-        font-size: 50px;
+        font-size: 12px;
         text-align: center;
         margin-top: 50%;
     }
